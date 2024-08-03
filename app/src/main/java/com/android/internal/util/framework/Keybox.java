@@ -8,8 +8,8 @@ public final class Keybox {
         public static final String PRIVATE_KEY = """
                 -----BEGIN EC PRIVATE KEY-----
                 MHcCAQEEIGQ+NF83whDMnVFvZqS7k5JeUGVdrT8W5mpNGdnjjDF5oAoGCCqGSM49
-AwEHoUQDQgAEKVCTV5RrPpZBQ7TtYYWWH6Z4yHZHYUC7uAL3QR4bANkVLRSRl8IM
-Haftwd9bpx8BbYjZ06tfNAgKOvf7XG99qA==
+                AwEHoUQDQgAEKVCTV5RrPpZBQ7TtYYWWH6Z4yHZHYUC7uAL3QR4bANkVLRSRl8IM
+                Haftwd9bpx8BbYjZ06tfNAgKOvf7XG99qA==
                 -----END EC PRIVATE KEY-----
                 """;
         public static final String CERTIFICATE_1 = """
